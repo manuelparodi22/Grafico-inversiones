@@ -38,7 +38,7 @@ const App = () => {
     initialCapital,
     years,
     monthlyContribution,
-    0.02
+    0
   );
 
   // Generate actual year labels for the X-axis (spread across the years)
